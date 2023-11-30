@@ -2,6 +2,8 @@
 
 Devido minha falta de conhecimento sobre a linguagem Flutter/Dart eu não consegui atingir o objetivo solicitado no desafio, visto que esse desafio foi meu primeiro contato com alinguagem, mesmo com toda a pesquisa e tentativas este foi o meu progresso máximo.
 
+Ultima tentavida registrada: 30/11/2023 às 02:05AM.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
