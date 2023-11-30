@@ -1,6 +1,6 @@
 # leitor_de_livros
 
-A new Flutter project.
+Devido minha falta de conhecimento sobre a linguagem Flutter/Dart eu não consegui atingir o objetivo solicitado no desafio, visto que esse desafio foi meu primeiro contato com alinguagem, mesmo com toda a pesquisa e tentativas este foi o meu progresso máximo.
 
 ## Getting Started
 
